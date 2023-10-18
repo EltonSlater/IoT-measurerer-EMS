@@ -1,10 +1,10 @@
-# Measurer 9000 - IoT Distance Measuring Project
+# Measurerer 9000 - An IoT Distance Measuring Project
 
 ![Project Image](public/assets/projectpicture.jpg)
 
 ## Purpose
 
-The Measurer 9000 is an IoT project that utilizes an ultrasonic sensor to measure the distance between the device and any object. It then displays this distance both on an OLED screen and a webpage for convenient monitoring.
+The Measurerer 9000 is an IoT project that utilizes an ultrasonic sensor to measure the distance between the device and any object. It then displays this distance both on an OLED screen and a webpage for convenient monitoring.
 
 ## Parts List
 

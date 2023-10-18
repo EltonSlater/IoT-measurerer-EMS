@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+.header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.measurement-container {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  margin: 30px auto;
+}
+
+.measurement {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.unit {
+  font-size: 20px;
+}
+
+.description {
+  font-size: 18px;
+  margin-top: 20px;
+}

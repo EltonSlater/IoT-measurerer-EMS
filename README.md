@@ -67,6 +67,6 @@ The Measurerer 9000 is an IoT project that utilizes an ultrasonic sensor to meas
 
 ## bibliography
 
-oled screen code - [random nerd tutorials](https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/)
-ultrasonic sensor code - [random nerd tutorials](https://randomnerdtutorials.com/esp32-hc-sr04-ultrasonic-arduino/)
-ejs, node.js and api - [Iot Weather - JetScholar](https://github.com/jetscholar/IoT-Weather)
+oled screen code - [random nerd tutorials](https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/)  
+ultrasonic sensor code - [random nerd tutorials](https://randomnerdtutorials.com/esp32-hc-sr04-ultrasonic-arduino/)  
+ejs, node.js and api - [Iot Weather - JetScholar](https://github.com/jetscholar/IoT-Weather)  

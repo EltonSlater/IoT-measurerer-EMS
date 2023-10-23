@@ -22,8 +22,8 @@ float distanceCm;
 aREST rest = aREST();
 
 // WiFi parameters
-const char* ssid = "Eswifi";
-const char* password = "bzab7979";
+const char* ssid = "Network Name";
+const char* password = "password";
 
 //define sound speed in cm/uS
 #define SOUND_SPEED 0.034
